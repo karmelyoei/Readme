@@ -2,11 +2,11 @@
 
 ---
 
-##This repo is for covering tow ascpects of Readme text
+## This repository is for covering tow ascpects to help you write a README file that helps readers feel confident about your project.
 
-### 1. [∞](./READEME.md) How to write a Markdown ?!
+### 1. [∞](./READEME.md) All you need to know about the Markdown and how to write it. Here is this section :point_down:
 
-### 2. [∞](./AboutReadME.md) How to write an efficent Readme ?!
+### 2. [∞](./AboutReadME.md) How to write an efficent Readme With top ten steps to a better Readme. inside this section :point_right: [AboutReadMe](./AboutReadME.md)
 
 ---
 
