@@ -1,6 +1,5 @@
 # <span style="color:green"> Readme <span>
 
----
 
 ## This repository is for covering tow  aspects  to help you write a README file that helps readers feel confident about your project.
 
