@@ -2,7 +2,7 @@
 
 ---
 
-## This repository is for covering tow ascpects to help you write a README file that helps readers feel confident about your project.
+## This repository is for covering tow  aspects  to help you write a README file that helps readers feel confident about your project.
 
 ### 1. [∞](./READEME.md) All you need to know about the Markdown and how to write it. Here is this section :point_down:
 
