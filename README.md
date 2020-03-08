@@ -2,7 +2,7 @@
 
 ---
 
-## This repository is for covering tow ascpects to help you write a README file that helps readers feel confident about your project.
+### This repository is for covering two aspects to help you write a README file that helps readers feel confident about your project.
 
 ### 1. [∞](./READEME.md) All you need to know about the Markdown and how to write it. Here is this section :point_down:
 
@@ -17,8 +17,6 @@ The Markdown is a lightweight and easy-to-use syntax for styling all forms of wr
 For more information, see [“Writing on GitHub”](https://help.github.com/en/github/writing-on-github) in the GitHub Help.
 
 # <span style="color:green">Syntax guide:
-
----
 
 - ## <span style="color:orange">Headers
 
@@ -45,7 +43,7 @@ This is for the **Bold**  word
 
 - ## <span style="color:orange">Lists
 
-  #### <span style="color:#C46200">Unordered
+### <span style="color:#C46200">Unordered
 
 - Item 1
 - Item 2
@@ -231,8 +229,6 @@ GitHub supports emoji! :wink::smiley:
 To see a list of every image we support, check out [the Emoji Cheat Sheet.](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 - ## <span style="color:orange">YouTube Videos
-
----
 
 They can't be added directly but you can add an image with a link to the video like this:
 
