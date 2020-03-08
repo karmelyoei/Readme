@@ -12,7 +12,7 @@
 
 # So lets get started! :metal:
 
-# Ten steps for a better Readme
+ **Ten steps for a better Readme**
 
 ## 1. Identify the project
 
